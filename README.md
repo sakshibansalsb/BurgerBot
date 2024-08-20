@@ -88,8 +88,6 @@ To set up and run BurgerBot locally, follow these instructions:
     python app.py
     ```
 
-    By default, the application will start a Gradio interface accessible at [http://localhost:7860](http://localhost:7860).
-
 ## Usage
 
 - **Greet and Order**: Start the chat by greeting the bot. Follow the instructions to place an order.
