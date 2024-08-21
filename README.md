@@ -24,6 +24,7 @@ BurgerBot is built using a Large Language Model (LLM) integrated with Gradio for
 - Handle payment information for delivery orders.
 
 ## Architecture
+![bot](https://github.com/user-attachments/assets/e07a0f7b-9ac1-4de6-9ad7-3f6e1c93dded)
 
 The system is composed of the following components:
 
