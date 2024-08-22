@@ -2,7 +2,7 @@ import google.generativeai as genai
 import gradio as gr
 
 # Replace with your actual API key
-api_key = "AIzaSyBizxFLIQSrfhGMOoRb-0N2iA0lVOV-NUU"
+api_key = "your api- key"
 genai.configure(api_key=api_key)
 
 # Define the generative model instance
